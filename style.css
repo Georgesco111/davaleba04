@@ -1,0 +1,91 @@
+body{
+	margin: 30px 0px 0px 30px;
+}
+.logo{
+	width: 100px;
+	display: inline-block;
+	vertical-align: middle;
+
+}
+a{
+	text-decoration: none;
+
+}
+ul{
+	display: inline-block;
+	vertical-align: middle;
+}
+li{
+	display: inline-block;
+	margin-left: 50px;
+	font-weight: bold;
+	color:#3D58A6;
+	font-size: 22px;
+}
+.redfont{
+	color:#EE4036;
+}
+.sectionphoto{
+	margin-top: 30px;
+	margin-bottom: 100px;
+}
+.p1{
+	font-size: 24px;
+	margin-bottom: 20px;
+}
+.box1{
+	width: 570px;
+	height: 225px;
+	background-color: #F2F2F2;
+	display: inline-block;
+	margin-right:20px;
+
+
+}
+.p2{
+	font-size: 22px;
+	color: #3D58A6;
+	padding: 15px 0px 0px 15px;
+}
+.boxlogo1{
+	height: 130px;
+	padding: 10px 0px 0px 50px;
+	display: inline-block;
+	vertical-align: middle;
+
+}
+.p3{
+	width: 355px;
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 15px;
+	font-size: 20px;
+}
+.box2{
+	width: 570px;
+	height: 225px;
+	background-color: #F2F2F2;
+	display: inline-block
+
+	
+}
+.line hr{
+	
+	border:1px solid black;
+    width: 570px;
+    position: absolute;
+    margin-top: 30px;
+}
+.facebooklogo{
+	display: inline-block;
+	height: 30px;
+	margin-top: 50px;
+}
+.youtubelogo {
+	display: inline-block;
+	height: 30px;
+	margin-left: 30px;
+}
+.vl{
+	border: 1px solid blue;
+}
